@@ -1,7 +1,7 @@
 
 # DataBus
 
-Projeto realizado para a disciplina de Banco de Dados 1, na Universidade Estadual do Sudoeste da Bahia (UESB). O software é uma simulação de um sistema de transporte público linkado com um Banco de Dados Local para fins acadêmicos.
+Projeto realizado para a disciplina de Banco de Dados 1, na Universidade Estadual do Sudoeste da Bahia (UESB). O software é uma simulação de um sistema de transporte público linkado com um banco de dados local para fins acadêmicos.
 
 ## Aplicação 🚌
 Imagens da Aplicação
